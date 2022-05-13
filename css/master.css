@@ -13,7 +13,7 @@ header{
 
 h1{
     color:white;
-    margin-left: 500px;
+    margin-left: 670px;
     margin-top: 30px;
     font-size:70px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -28,16 +28,71 @@ nav{
     font-size: 25px;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    margin-left: 190px 
+    margin-left: 300px
 }
 .P{
     font-size: 25px;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    margin: 220px 
+    margin: 400px 
 }
 .C{
     font-size: 25px;
     color: rgb(255, 255, 255);
     text-decoration: none;
+}
+
+footer{
+    margin-top: -25px;
+    margin-bottom: 100px;
+    position: relative;
+    display: inline-block;
+    
+}
+.F2 h4{
+    margin-left: 500px;
+    margin-top: 100px;
+    color: rgb(106, 106, 106);
+    text-decoration: none;
+}
+.map{
+    margin-left: 1250px;
+}
+.B{
+    position: relative;
+    margin-left: 900px;
+    margin-top: 100px;
+}
+.PE{
+    text-decoration: none;
+    color: rgb(106, 106, 106);
+}
+.RE{
+    text-decoration: none;
+    color: rgb(106, 106, 106);
+}
+.CO{
+    text-decoration: none;
+    color: rgb(106, 106, 106);
+}
+.Serv{
+    margin-left: 700px;
+    padding-bottom: 200px;
+    text-decoration: none;
+    color: rgb(106, 106, 106);
+}
+.Der{
+    text-decoration: none;
+    color: rgb(106, 106, 106);
+    margin-right: 466px;
+    margin-left: -770px;
+    font-size: 20px;
+}
+.CO2{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: -2px;
+    border: 5px white;
+    
 }

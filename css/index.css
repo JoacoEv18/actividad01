@@ -1,0 +1,79 @@
+main{
+    background: url(../multimedia/pista\ mas\ grande.png) no-repeat;
+
+}
+.cuadrado1{
+    height: 500px;
+    width: 500px;
+    background-color: #D9D9D9;
+    margin-left: 100px;
+    margin-top: 300px;
+}
+.E1{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.tex{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    margin-left: 210px;
+    margin-top: 305px;
+    font-size: 20px;
+}
+.im1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 310px;
+    margin-left: -70px;
+}
+main .img2 img{
+    height: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 340px;
+    margin-left: -595px;
+}
+
+.cuadrado2{
+    height: 500px;
+    width: 500px;
+    background-color: #D9D9D9;
+    margin-left: 1200px;
+    margin-top: -523px;
+}
+
+.E2{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.tex2{
+    position: absolute;
+    top: -504px;
+    left: 1360px;
+    font-size: 20px;
+
+}
+.text2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(50%, 50%);
+    margin-left: 300px;
+    margin-top: -150px;
+}
+main .imag2 img{
+    position: absolute;
+    top: 85%;
+    left: 76.5%;
+    transform: translate(-50%, -50%);
+    height: 300px;
+    margin-left: 200;
+}
