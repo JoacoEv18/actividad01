@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+header{
+    background-color: black;
+    height: 200px;
+}
+
+.Im{
+    margin: 20px;
+    height: 5px;
+}
+
+h1{
+    color:white;
+    margin-left: 500px;
+    margin-top: 30px;
+    font-size:70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    background-color: rgba(77, 75, 75, 0.566);
+    height: 50px;
+    */margin-top: 20px;
+}
+.R{
+    */border: 2px solid black ;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 190px 
+}
+.P{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 220px 
+}
+.C{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
