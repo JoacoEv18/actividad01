@@ -2,6 +2,20 @@ main{
     background: url(../multimedia/pista\ mas\ grande.png) no-repeat;
 
 }
+.btn-wsp{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+}
 .cuadrado1{
     height: 500px;
     width: 500px;
